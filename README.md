@@ -14,10 +14,10 @@ Giảng viên hướng dẫn: thầy Đinh Nguyễn Anh Dũng
 3. Sử dụng phần mềm Pycharm để khởi chạy.
 4. Cài đặt các thư viện cần thiết bao gồm:
   - pip install opencv-contrib-python
-	- pip install mysql.connector
-	- pip install opencv-python
-	- pip install Pillow
-	- pip install numpy
-	- pip install tkcalendar
+  - pip install mysql.connector
+  - pip install opencv-python
+  - pip install Pillow
+  - pip install numpy
+  - pip install tkcalendar	
 5. Khởi chạy bằng file login.py  
 6. Đăng nhập bằng tài khoản: admin, pass: 123456 để sử dụng
